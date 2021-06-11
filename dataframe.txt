@@ -1,0 +1,14 @@
+df =                                      stock
+0              A, Agilent Technologies Inc
+1                           AA, Alcoa Corp
+2         AAA, Aaf First Priority Clo Bond
+3      AAAIF, Alternative Investment Trust
+4                    AAALF, Aareal Bank Ag
+...                                    ...
+27424    ZZHGY, Zhongan Online P&C Ins-Adr
+27425                            ZZK, Test
+27426    ZZLL, Zzll Information Technology
+27427                            ZZZ, Test
+27428        ZZZOF, Zinc One Resources Inc
+
+[27429 rows x 1 columns]
