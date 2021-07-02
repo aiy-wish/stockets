@@ -5,5 +5,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Size](https://github-size-badge.herokuapp.com/aiy-wish/stockets.svg)
+Under Development. Will be updated soon!
+
+![version](https://img.shields.io/badge/version-1.1.1-blue) ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Size](https://github-size-badge.herokuapp.com/aiy-wish/stockets.svg)
 
